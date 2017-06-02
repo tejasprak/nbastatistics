@@ -1,0 +1,4 @@
+built off nbadatastuff, has some statistics functions to get data and write it to file.
+TODO:
+	add data analysis with pandas
+	add other stuff
