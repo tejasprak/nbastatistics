@@ -2,3 +2,5 @@ built off nbadatastuff, has some statistics functions to get data and write it t
 TODO:
 	add data analysis with pandas
 	add other stuff
+
+Do with this code what you want. Probably won't ever be a completed project. Besides, just use nba_py if you want a complete experience
